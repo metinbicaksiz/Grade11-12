@@ -1,0 +1,1 @@
+grade = int(input(*Enter your grade: *))
